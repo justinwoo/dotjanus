@@ -1,0 +1,24 @@
+[submodule "ghcmod-vim"]
+	path = ghcmod-vim
+	url = https://github.com/eagletmt/ghcmod-vim.git
+[submodule "neco-ghc"]
+	path = neco-ghc
+	url = https://github.com/eagletmt/neco-ghc.git
+[submodule "vim-flow"]
+	path = vim-flow
+	url = https://github.com/flowtype/vim-flow
+[submodule "ultisnips"]
+	path = ultisnips
+	url = https://github.com/SirVer/ultisnips
+[submodule "purescript-vim"]
+	path = purescript-vim
+	url = https://github.com/raichoo/purescript-vim.git
+[submodule "psc-ide-vim"]
+	path = psc-ide-vim
+	url = https://github.com/FrigoEU/psc-ide-vim.git
+[submodule "vim-jsx"]
+	path = vim-jsx
+	url = https://github.com/mxw/vim-jsx
+[submodule "vimproc.vim"]
+	path = vimproc.vim
+	url = https://github.com/Shougo/vimproc.vim
