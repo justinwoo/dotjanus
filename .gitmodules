@@ -22,3 +22,6 @@
 [submodule "neocomplete.vim"]
 	path = neocomplete.vim
 	url = https://github.com/Shougo/neocomplete.vim
+[submodule "molokai"]
+	path = molokai
+	url = git@github.com:tomasr/molokai.git
